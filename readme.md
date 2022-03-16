@@ -8,3 +8,6 @@
 > [Githubページへ飛ぶ](https://github.com/Rapptz/discordpy)
 - アプリ開発 : xMasa
 > [Githubページへ飛ぶ](https://github.com/xMasa-1022)
+
+## Support:
+- https://discord.gg/8bZ8vNc8zA
